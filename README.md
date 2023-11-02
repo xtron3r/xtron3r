@@ -16,10 +16,14 @@ Hello 👋 , my name is xtroner, currently studying computer engineering. I have
   
 -------------------
   
-![Xtron3r github stats](https://github-readme-stats.vercel.app/api?username=xtron3r&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![xtron3r github stats](https://github-readme-stats.vercel.app/api?username=xtron3r&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Xtron3r github streak](https://github-readme-streak-stats.herokuapp.com/?user=xtron3r&theme=radical&include_all_commits=true&count_private=true)
+![xtron3r github streak](https://github-readme-streak-stats.herokuapp.com/?user=xtron3r&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
 Last Edited on: 1/11/2023
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
