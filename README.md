@@ -1,7 +1,7 @@
 <div align="center">
   
 # ☠️ About Me:
-Hello 👋 , my name is xtroner, currently studying computer engineering. I have this profile to upload semester projects and other things
+Hello 👋 , i'm xtroner, currently studying computer engineering. I have this profile to upload semester projects and other things
 
 -------------------
 
