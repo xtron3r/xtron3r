@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">XTRONER technology stack</title>
+  <desc id="desc">A compact futuristic dashboard showing XTRONER technologies.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050816"/>
+      <stop offset="1" stop-color="#150d29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#67e8f9" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="470" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="470" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="468" rx="23" fill="none" stroke="#67e8f9" stroke-opacity=".25"/>
+
+  <g font-family="monospace">
+    <text x="42" y="48" fill="#67e8f9" font-size="13" letter-spacing="3">XTRONER / SYSTEM STACK</text>
+    <text x="42" y="78" fill="#e2e8f0" font-size="22" font-weight="700">TOOLS FOR BUILDING SECURE DIGITAL SYSTEMS</text>
+    <path d="M42 101H1158" stroke="url(#accent)" stroke-opacity=".55"/>
+
+    <g transform="translate(42 122)">
+      <rect width="1116" height="58" rx="12" fill="#0b1220" fill-opacity=".85" stroke="#67e8f9" stroke-opacity=".2"/>
+      <circle cx="28" cy="29" r="7" fill="#67e8f9"/>
+      <text x="52" y="35" fill="#67e8f9" font-size="14" font-weight="700">FULL STACK</text>
+      <g transform="translate(190 10)">
+        <rect width="82" height="38" rx="19" fill="#122638"/><text x="19" y="25" fill="#dbeafe" font-size="13">Python</text>
+        <rect x="90" width="82" height="38" rx="19" fill="#122638"/><text x="106" y="25" fill="#dbeafe" font-size="13">FastAPI</text>
+        <rect x="180" width="77" height="38" rx="19" fill="#122638"/><text x="195" y="25" fill="#dbeafe" font-size="13">Django</text>
+        <rect x="265" width="104" height="38" rx="19" fill="#122638"/><text x="280" y="25" fill="#dbeafe" font-size="13">PostgreSQL</text>
+        <rect x="377" width="72" height="38" rx="19" fill="#122638"/><text x="393" y="25" fill="#dbeafe" font-size="13">MySQL</text>
+        <rect x="457" width="70" height="38" rx="19" fill="#122638"/><text x="474" y="25" fill="#dbeafe" font-size="13">Oracle</text>
+        <rect x="535" width="103" height="38" rx="19" fill="#122638"/><text x="548" y="25" fill="#dbeafe" font-size="13">SQLAlchemy</text>
+        <rect x="646" width="76" height="38" rx="19" fill="#122638"/><text x="663" y="25" fill="#dbeafe" font-size="13">Alembic</text>
+        <rect x="730" width="54" height="38" rx="19" fill="#122638"/><text x="748" y="25" fill="#dbeafe" font-size="13">Java</text>
+      </g>
+    </g>
+
+    <g transform="translate(42 193)">
+      <rect width="1116" height="58" rx="12" fill="#0b1220" fill-opacity=".85" stroke="#c084fc" stroke-opacity=".25"/>
+      <circle cx="28" cy="29" r="7" fill="#c084fc"/>
+      <text x="52" y="35" fill="#c084fc" font-size="14" font-weight="700">APPLICATIONS</text>
+      <g transform="translate(190 10)">
+        <rect width="104" height="38" rx="19" fill="#24183d"/><text x="17" y="25" fill="#f3e8ff" font-size="13">TypeScript</text>
+        <rect x="112" width="102" height="38" rx="19" fill="#24183d"/><text x="127" y="25" fill="#f3e8ff" font-size="13">JavaScript</text>
+        <rect x="224" width="57" height="38" rx="19" fill="#24183d"/><text x="241" y="25" fill="#f3e8ff" font-size="13">HTML</text>
+        <rect x="291" width="82" height="38" rx="19" fill="#24183d"/><text x="307" y="25" fill="#f3e8ff" font-size="13">React</text>
+        <rect x="383" width="61" height="38" rx="19" fill="#24183d"/><text x="400" y="25" fill="#f3e8ff" font-size="13">Expo</text>
+        <rect x="454" width="52" height="38" rx="19" fill="#24183d"/><text x="469" y="25" fill="#f3e8ff" font-size="13">CSS</text>
+        <rect x="516" width="93" height="38" rx="19" fill="#24183d"/><text x="532" y="25" fill="#f3e8ff" font-size="13">Bootstrap</text>
+        <rect x="619" width="75" height="38" rx="19" fill="#24183d"/><text x="636" y="25" fill="#f3e8ff" font-size="13">Flutter</text>
+        <rect x="704" width="88" height="38" rx="19" fill="#24183d"/><text x="718" y="25" fill="#f3e8ff" font-size="13">Discord.js</text>
+      </g>
+    </g>
+
+    <g transform="translate(42 264)">
+      <rect width="1116" height="58" rx="12" fill="#0b1220" fill-opacity=".85" stroke="#67e8f9" stroke-opacity=".2"/>
+      <circle cx="28" cy="29" r="7" fill="#67e8f9"/>
+      <text x="52" y="35" fill="#67e8f9" font-size="14" font-weight="700">AI / VISION</text>
+      <g transform="translate(190 10)">
+        <rect width="91" height="38" rx="19" fill="#122638"/><text x="17" y="25" fill="#dbeafe" font-size="13">PyTorch</text>
+        <rect x="103" width="60" height="38" rx="19" fill="#122638"/><text x="120" y="25" fill="#dbeafe" font-size="13">YOLO</text>
+        <rect x="175" width="82" height="38" rx="19" fill="#122638"/><text x="190" y="25" fill="#dbeafe" font-size="13">OpenCV</text>
+        <rect x="269" width="143" height="38" rx="19" fill="#122638"/><text x="285" y="25" fill="#dbeafe" font-size="13">Automation</text>
+        <rect x="424" width="137" height="38" rx="19" fill="#122638"/><text x="440" y="25" fill="#dbeafe" font-size="13">Computer vision</text>
+      </g>
+    </g>
+
+    <g transform="translate(42 335)">
+      <rect width="1116" height="58" rx="12" fill="#0b1220" fill-opacity=".85" stroke="#c084fc" stroke-opacity=".25"/>
+      <circle cx="28" cy="29" r="7" fill="#c084fc"/>
+      <text x="52" y="35" fill="#c084fc" font-size="14" font-weight="700">CLOUD / DELIVERY</text>
+      <g transform="translate(190 10)">
+        <rect width="77" height="38" rx="19" fill="#24183d"/><text x="16" y="25" fill="#f3e8ff" font-size="13">Docker</text>
+        <rect x="89" width="64" height="38" rx="19" fill="#24183d"/><text x="106" y="25" fill="#f3e8ff" font-size="13">Azure</text>
+        <rect x="165" width="73" height="38" rx="19" fill="#24183d"/><text x="181" y="25" fill="#f3e8ff" font-size="13">Render</text>
+        <rect x="250" width="49" height="38" rx="19" fill="#24183d"/><text x="266" y="25" fill="#f3e8ff" font-size="13">Git</text>
+        <rect x="311" width="72" height="38" rx="19" fill="#24183d"/><text x="327" y="25" fill="#f3e8ff" font-size="13">GitHub</text>
+        <rect x="395" width="108" height="38" rx="19" fill="#24183d"/><text x="410" y="25" fill="#f3e8ff" font-size="13">WebSockets</text>
+      </g>
+    </g>
+
+    <g transform="translate(42 406)">
+      <rect width="1116" height="58" rx="12" fill="#0b1220" fill-opacity=".85" stroke="#67e8f9" stroke-opacity=".2"/>
+      <circle cx="28" cy="29" r="7" fill="#67e8f9"/>
+      <text x="52" y="35" fill="#67e8f9" font-size="14" font-weight="700">SECURITY / IOT / TOOLS</text>
+      <g transform="translate(270 10)">
+        <rect width="87" height="38" rx="19" fill="#122638"/><text x="16" y="25" fill="#dbeafe" font-size="13">ESP32-S3</text>
+        <rect x="99" width="49" height="38" rx="19" fill="#122638"/><text x="115" y="25" fill="#dbeafe" font-size="13">BLE</text>
+        <rect x="160" width="57" height="38" rx="19" fill="#122638"/><text x="177" y="25" fill="#dbeafe" font-size="13">WiFi</text>
+        <rect x="229" width="91" height="38" rx="19" fill="#122638"/><text x="245" y="25" fill="#dbeafe" font-size="13">NetBeans</text>
+        <rect x="332" width="75" height="38" rx="19" fill="#122638"/><text x="348" y="25" fill="#dbeafe" font-size="13">VS Code</text>
+        <rect x="419" width="113" height="38" rx="19" fill="#122638"/><text x="435" y="25" fill="#dbeafe" font-size="13">Visual Studio</text>
+        <rect x="544" width="76" height="38" rx="19" fill="#122638"/><text x="561" y="25" fill="#dbeafe" font-size="13">ChatGPT</text>
+      </g>
+    </g>
+  </g>
+</svg>
